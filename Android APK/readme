@@ -1,1 +1,5 @@
+BTCPAY POS android version 7.7.0
+- Tested with Sunmi POS models V2, V2-PRO, V2S
+- Tested with Android phone (no printer)
+- Requires BTCPAY server with lightning and hot wallet to process transactions
 
